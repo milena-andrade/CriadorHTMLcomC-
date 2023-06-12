@@ -1,0 +1,22 @@
+
+|!                                      'Bolos'                                          |
+|!                                                                                          |
+
+|                                 'Boulinhos'                                             |
+|                                                                                           |
+|                         .XXXXXXXXX.                 %Enviar%                              |
+|                                                                                           |
+|                                      Qual doce você gostaria?                             |
+|                            (Bolo, Brownie, Muffin, Cupcake, Donut)                        |
+|                                                                                           |
+|                                      Recheio:                                             |
+|                                    {Chocolate, Morango, Creme}                            |
+|                                                                                           |
+|                                  Gostaria de qual cobertura?                              |
+|                    [Sem cobertura,Chocolate ao leite,Chocolate branco,Glacê]              |
+|                                                                                           |
+|                                                                                           |
+|                                                                                           |
+|                                                                                           |
+|                                                                                           |
+!                                                                                           
